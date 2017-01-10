@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["Mint","A Mint creates goldenfiles."]]});
